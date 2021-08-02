@@ -1,4 +1,4 @@
 # PrvniRepozitar
 
 Pripsal jsem dalsi radek
--nebo taky nadpisy
+-nebo taky nadpisy,
